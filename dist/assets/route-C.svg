@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 380" role="img">
+<title>Route C: Südvietnam</title>
+<defs><clipPath id="frame"><rect width="470" height="380" rx="20"/></clipPath></defs><g clip-path="url(#frame)">
+<rect width="470" height="380" fill="#e4efeb"/>
+<path d="M-5.7,45.6 L-23.2,-43.8 L24.1,-105.3 L119.8,-119.4 L189.2,-108.8 L250.3,-79.8 L283.7,-130.8 L349.3,-103.6 L366.5,-54.2 L357.4,34.4 L233.0,91.4 L265.5,136.2 L187.8,141.6 L123.7,171.4 L61.8,160.6 L31.7,122.0 L-5.7,45.6Z" fill="#e9e8dc" stroke="#b8c8b6" stroke-width="1.2"/>
+<path d="M189.2,-108.8 L119.8,-119.4 L24.1,-105.3 L-23.2,-43.8 L-5.7,45.6 L-72.2,11.6 L-135.4,13.0 L-124.6,-45.1 L-189.8,-44.7 L-195.6,36.7 L-235.6,144.8 L-259.6,210.1 L-254.5,263.7 L-206.3,266.0 L-176.3,333.6 L-163.0,397.6 L-121.7,440.0 L-76.9,448.6 L-38.6,487.0 L-62.7,517.4 L-111.6,526.2 L-117.4,488.2 L-177.8,455.8 L-190.7,469.0 L-219.9,440.6 L-232.5,404.0 L-271.9,362.2 L-307.7,327.1 L-319.9,370.6 L-333.9,329.5 L-325.8,283.3 L-304.0,212.4 L-268.2,136.3 L-227.5,67.3 L-256.5,-0.2 L-255.3,-34.5 L-263.8,-75.8 L-313.1,-134.6 L-330.8,-171.8 L-305.2,-185.4 L-278.2,-249.8 L-308.5,-298.6 L-355.4,-352.6 L-391.2,-417.6 L-360.0,-431.0 L-326.2,-511.0 L-274.0,-514.3 L-230.8,-546.4 L-188.4,-563.5 L-156.4,-540.7 L-152.1,-496.2 L-102.1,-492.8 L-120.3,-414.9 L-118.6,-348.5 L-40.6,-392.7 L-18.4,-379.6 L24.9,-381.8 L39.8,-407.5 L95.8,-402.4 L152.1,-342.3 L156.7,-269.3 L216.6,-204.8 L213.3,-142.2 L189.2,-108.8Z" fill="#e9e8dc" stroke="#b8c8b6" stroke-width="1.2"/>
+<path d="M349.3,-103.6 L283.7,-130.8 L250.3,-79.8 L189.2,-108.8 L213.3,-142.2 L216.6,-204.8 L156.7,-269.3 L152.1,-342.3 L95.8,-402.4 L39.8,-407.5 L24.9,-381.8 L-18.4,-379.6 L-40.6,-392.7 L-118.6,-348.5 L-120.3,-414.9 L-102.1,-492.8 L-152.1,-496.2 L-156.4,-540.7 L-188.4,-563.5 L-172.6,-590.8 L-109.7,-638.9 L-103.0,-621.5 L-63.6,-619.5 L-74.8,-704.1 L-36.4,-715.0 L6.9,-656.6 L40.1,-589.3 L131.2,-588.7 L159.9,-524.2 L112.6,-504.8 L91.3,-478.2 L180.0,-434.0 L241.5,-346.5 L288.1,-281.3 L344.1,-229.8 L362.8,-177.6 L349.3,-103.6Z" fill="#e9e8dc" stroke="#b8c8b6" stroke-width="1.2"/>
+<path d="M123.7,171.4 L187.8,141.6 L265.5,136.2 L233.0,91.4 L357.4,34.4 L366.5,-54.2 L349.3,-103.6 L362.8,-177.6 L344.1,-229.8 L288.1,-281.3 L241.5,-346.5 L180.0,-434.0 L91.3,-478.2 L112.6,-504.8 L159.9,-524.2 L131.2,-588.7 L40.1,-589.3 L6.9,-656.6 L-36.4,-715.0 L3.3,-733.1 L62.3,-732.7 L134.3,-741.2 L197.4,-780.7 L233.0,-752.9 L300.7,-739.4 L289.0,-696.7 L324.2,-666.7 L398.7,-647.5 L299.9,-584.2 L238.2,-514.3 L222.0,-462.9 L278.6,-384.9 L347.8,-288.2 L414.9,-242.5 L459.9,-183.1 L493.8,-46.1 L483.8,84.1 L422.1,132.8 L337.3,180.4 L277.0,242.1 L184.7,311.0 L157.8,263.6 L178.6,213.4 L123.7,171.4Z" fill="#d9e2ce" stroke="#b8c8b6" stroke-width="1.2"/>
+<text x="100" y="72" fill="#94a18f" font-family="sans-serif" font-size="11" letter-spacing="2">KAMBODSCHA</text>
+<text x="297" y="48" fill="#84997d" font-family="sans-serif" font-size="11" letter-spacing="2">VIETNAM</text>
+<text x="50" y="290" fill="#88a6a0" font-family="sans-serif" font-size="10">GOLF VON THAILAND</text>
+<ellipse cx="96.77999999999992" cy="191.11999999999992" rx="6" ry="16" fill="#d9e2ce" stroke="#b8c8b6"/>
+<ellipse cx="292.14" cy="304.34000000000003" rx="8" ry="4" fill="#d9e2ce" stroke="#b8c8b6"/>
+<path d="M298.8000000000002,149.68 L352.08000000000015,102.31999999999998" fill="none" stroke="#16766d" stroke-width="2.5" stroke-linecap="round"  opacity=".8"/>
+<path d="M298.8000000000002,149.68 L231.46000000000046,204.44000000000003" fill="none" stroke="#16766d" stroke-width="2.5" stroke-linecap="round"  opacity=".8"/>
+<path d="M231.46000000000046,204.44000000000003 L178.91999999999987,207.39999999999998" fill="none" stroke="#16766d" stroke-width="2.5" stroke-linecap="round"  opacity=".8"/>
+<path d="M178.91999999999987,207.39999999999998 L96.77999999999992,191.11999999999992" fill="none" stroke="#16766d" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 5" opacity=".8"/>
+<path d="M178.91999999999987,207.39999999999998 L298.8000000000002,149.68" fill="none" stroke="#16766d" stroke-width="2.5" stroke-linecap="round"  opacity=".8"/>
+<circle cx="298.8000000000002" cy="149.68" r="5" fill="#16766d" stroke="white" stroke-width="2"/>
+<text x="310.8000000000002" y="154.68" fill="#28493f" stroke="#ecf0e7" stroke-width="3" paint-order="stroke" font-family="system-ui,sans-serif" font-weight="650" font-size="12">Ho-Chi-Minh</text>
+<circle cx="352.08000000000015" cy="102.31999999999998" r="5" fill="#16766d" stroke="white" stroke-width="2"/>
+<text x="364.08000000000015" y="106.31999999999998" fill="#28493f" stroke="#ecf0e7" stroke-width="3" paint-order="stroke" font-family="system-ui,sans-serif" font-weight="650" font-size="12">Cát Tiên</text>
+<circle cx="231.46000000000046" cy="204.44000000000003" r="5" fill="#16766d" stroke="white" stroke-width="2"/>
+<text x="238.46000000000046" y="190.44000000000003" fill="#28493f" stroke="#ecf0e7" stroke-width="3" paint-order="stroke" font-family="system-ui,sans-serif" font-weight="650" font-size="12">Cần Thơ</text>
+<circle cx="178.91999999999987" cy="207.39999999999998" r="3" fill="#16766d" stroke="white" stroke-width="2"/>
+<text x="149.91999999999987" y="230.39999999999998" fill="#28493f" stroke="#ecf0e7" stroke-width="3" paint-order="stroke" font-family="system-ui,sans-serif" font-weight="650" font-size="10">Rạch Giá</text>
+<circle cx="96.77999999999992" cy="191.11999999999992" r="5" fill="#16766d" stroke="white" stroke-width="2"/>
+<text x="54.779999999999916" y="225.11999999999992" fill="#28493f" stroke="#ecf0e7" stroke-width="3" paint-order="stroke" font-family="system-ui,sans-serif" font-weight="650" font-size="12">Phú Quốc</text>
+<text x="26" y="355" fill="#647d72" font-size="9" font-family="sans-serif">N ↑ · Ortsfolge schematisch · Natural Earth</text></g></svg>
